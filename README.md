@@ -31,5 +31,5 @@ In the comming of weeks I will be doing a fullstack project based on the curricu
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
 The best email to reach me at is mathew.enewton@gmail.com\
-My personal email for connecting and talking about code: elijah2895@hotmail.com
+
 
