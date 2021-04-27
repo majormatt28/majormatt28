@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Full-stack developer that enjoys learning new languages and solving problems.\
-I’m currently learning React and have knowledge on Ruby, RUby on Rails and vanilla JS.\
+I’m currently learning React and have knowledge on Ruby, Ruby on Rails and vanilla JS.\
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
 ### What I'm currently working on:
