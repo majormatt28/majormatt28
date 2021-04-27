@@ -20,8 +20,8 @@ All I wish to do is try my best in everything I learn and help those who are goi
 
 ### What I'm currently working on:
 
-Currently I'm not in any prject as of yet. Just working on better understanding React syntax and hooks.\
-In the comming of weeks I will be doing a fullstack project based on the curiculum I have at my current coding bootcamp.
+Currently I'm not in any project as of yet. Just working on better understanding React syntax and hooks.\
+In the comming of weeks I will be doing a fullstack project based on the curriculum I have at my current coding bootcamp.
 
 ### Some Tech Blogs I've worked on:
 
