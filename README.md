@@ -27,6 +27,7 @@ In the comming of weeks I will be doing a fullstack project based on the curricu
 
 - [So you failed your first code challenge...](https://mathew-enewton.medium.com/so-you-failed-your-first-code-challenge-84cb23007f8b)
 - [The curious case of form_for](https://mathew-enewton.medium.com/the-curious-case-of-form-for-64d4ebd46ba1)
+- [What do you know about event listeners](https://mathew-enewton.medium.com/what-do-you-know-about-event-listeners-603f5357b172)
 
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
