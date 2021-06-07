@@ -19,7 +19,7 @@ I’m currently learning React and have knowledge on Ruby, Ruby on Rails and van
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
 ### What I've worked on:
--FunFlix - A way to browse recently released movies to rate and comment under.
+-FunFlix - A way to browse recently released movies to rate and comment under.\
 -Ink-Gaming - A pleace to upload videos, images and just text based on all the latest news in gaming.
 
 
