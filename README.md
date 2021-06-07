@@ -18,16 +18,17 @@ I'm a Full-stack developer that enjoys learning new languages and solving proble
 I’m currently learning React and have knowledge on Ruby, Ruby on Rails and vanilla JS.\
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
-### What I'm currently working on:
+### What I've worked on:
+-FunFlix - A way to browse recently released movies to rate and comment under.
+-Ink-Gaming - A pleace to upload videos, images and just text based on all the latest news in gaming.
 
-Currently I'm not in any project as of yet. Just working on better understanding React syntax and hooks.\
-In the comming of weeks I will be doing a fullstack project based on the curriculum I have at my current coding bootcamp.
 
 ### Some Tech Blogs I've worked on:
 
 - [So you failed your first code challenge...](https://mathew-enewton.medium.com/so-you-failed-your-first-code-challenge-84cb23007f8b)
 - [The curious case of form_for](https://mathew-enewton.medium.com/the-curious-case-of-form-for-64d4ebd46ba1)
 - [What do you know about event listeners](https://mathew-enewton.medium.com/what-do-you-know-about-event-listeners-603f5357b172)
+- [The end of one coding journey leads to the beginning of another...](https://mathew-enewton.medium.com/the-end-of-one-coding-journey-leads-to-the-beginning-of-another-abe67a89fcf6)
 
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
