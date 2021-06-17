@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full-stack developer that enjoys learning new languages and solving problems.\
+I'm a Software Engineer that enjoys learning new languages and solving problems.\
 I have knowledge on Ruby, Ruby on Rails, JavaScript and React.js.\
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
