@@ -18,6 +18,8 @@ I'm a Full-stack developer that enjoys learning new languages and solving proble
 I’m currently learning React and have knowledge on Ruby, Ruby on Rails and vanilla JS.\
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
+## &#x1f4c8; GitHub Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majormatt28&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=majormatt28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
