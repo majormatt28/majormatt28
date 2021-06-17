@@ -18,6 +18,8 @@ I'm a Full-stack developer that enjoys learning new languages and solving proble
 I’m currently learning React and have knowledge on Ruby, Ruby on Rails and vanilla JS.\
 All I wish to do is try my best in everything I learn and help those who are going through a similar journey.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majormatt28&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
 ### What I've worked on:
 -FunFlix - A way to browse recently released movies to rate and comment under.\
 -Ink-Gaming - A place to upload videos, images and just text based on all the latest news in gaming.
