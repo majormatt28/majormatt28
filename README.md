@@ -26,7 +26,8 @@ All I wish to do is try my best in everything I learn and help those who are goi
 
 ### What I've worked on:
 -FunFlix - A way to browse recently released movies to rate and comment under.\
--Ink-Gaming - A place to upload videos, images and just text based on all the latest news in gaming.
+-Ink-Gaming - A place to upload videos, images and just text based on all the latest news in gaming.\
+-MyStadium - You are able to review NBA stadiums you've been to and comment on your experience there.
 
 
 ### Some Tech Blogs I've worked on:
