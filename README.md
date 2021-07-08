@@ -20,17 +20,22 @@ All I wish to do is try my best in everything I learn and help those who are goi
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majormatt28&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=majormatt28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-### What I've worked on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majormatt28&repo=Ink-Gaming-frontend)](https://github.com/majormatt28/Ink-Gaming-frontend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majormatt28&theme=tokyonight&show_icons=true)](https://github.com/majormatt28/github-readme-stats) ![Majormatt28's GitHub stats](https://github-readme-stats.vercel.app/api?username=majormatt28&theme=tokyonight&show_icons=true) 
 
 
+## What I've worked on:
 
-### Some Tech Blogs I've worked on:
-  
+<a href="https://github.com/majormatt28/Ink-Gaming-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majormatt28&repo=Ink-Gaming-frontend&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/majormatt28/FunFlix-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majormatt28&repo=FunFlix-frontend&theme=tokyonight&show_icons=true" />
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majormatt28&repo=MyStadium-frontend&theme=tokyonight&show_icons=true)](https://github.com/majormatt28/MyStadium-frontend)
+
+## Some Tech Blogs I've worked on:
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/1" alt="Recent Article 1">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/2" alt="Recent Article 2">
