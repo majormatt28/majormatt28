@@ -32,10 +32,7 @@ All I wish to do is try my best in everything I learn and help those who are goi
 
 ### Some Tech Blogs I've worked on:
 
-- [So you failed your first code challenge...](https://mathew-enewton.medium.com/so-you-failed-your-first-code-challenge-84cb23007f8b)
-- [The curious case of form_for](https://mathew-enewton.medium.com/the-curious-case-of-form-for-64d4ebd46ba1)
-- [What do you know about event listeners](https://mathew-enewton.medium.com/what-do-you-know-about-event-listeners-603f5357b172)
-- [The end of one coding journey leads to the beginning of another...](https://mathew-enewton.medium.com/the-end-of-one-coding-journey-leads-to-the-beginning-of-another-abe67a89fcf6)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@majormatt28/0" alt="Recent Article 0">
 
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
