@@ -25,14 +25,19 @@ All I wish to do is try my best in everything I learn and help those who are goi
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=majormatt28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ### What I've worked on:
--FunFlix - A way to browse recently released movies to rate and comment under.\
--Ink-Gaming - A place to upload videos, images and just text based on all the latest news in gaming.\
--MyStadium - You are able to review NBA stadiums you've been to and comment on your experience there.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=majormatt28&repo=Ink-Gaming-frontend)](https://github.com/majormatt28/Ink-Gaming-frontend)
+
 
 
 ### Some Tech Blogs I've worked on:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/0" alt="Recent Article 0">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/1" alt="Recent Article 1">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/2" alt="Recent Article 2">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mathew-enewton/3" alt="Recent Article 3">
 
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
