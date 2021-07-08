@@ -32,7 +32,7 @@ All I wish to do is try my best in everything I learn and help those who are goi
 
 ### Some Tech Blogs I've worked on:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@majormatt28/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/majormatt28/0" alt="Recent Article 0">
 
 ### 📫 How to reach me:
 For all inquiries that are for business please use the email below.\
